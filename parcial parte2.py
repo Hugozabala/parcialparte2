@@ -7,7 +7,7 @@ def menu():
     print("5. calcular cuantos digitos tiene un numero")
     print("6. salir")
 
-def cadena_rep3(cadena,rep):
+def cadena_rep3(cadena):
     if len(cadena)==0:
         return 0
     else:
